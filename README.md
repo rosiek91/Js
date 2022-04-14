@@ -1,6 +1,6 @@
 ## General info
 
-Exercises performed in the eduweb.pl course
+Exercises performed in the eduweb.pl course.
 
 ## Contact
 | Adress email:     | tomasz.rosko@gmail.com |
